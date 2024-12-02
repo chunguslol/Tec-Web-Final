@@ -16,7 +16,7 @@ Content-Type: application/json
 
 ### 
 
-GET http://localhost:3000/api/employees/5b0624a7abcb202a3af189b6 HTTP/1.1
+GET http://localhost:3000/api/employees/674cf64163414551ece56798 HTTP/1.1
 
 ###
 
@@ -31,4 +31,4 @@ Content-Type: application/json
 }
 
 ###
-DELETE http://localhost:3000/api/employees/5b0627e6edb8f82dcc1486ff
+DELETE http://localhost:3000/api/employees/674ced5791cf7715846b96a2
